@@ -17,7 +17,7 @@ public class TestBarTender {
 
         LogicaBarTender logica = new LogicaBarTender();
         //logica.consultaDatos();
-        logica.ordenarDatos(3, 6);
+        logica.ordenarDatos(3, 1);
     }
 
 }
